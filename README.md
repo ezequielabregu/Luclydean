@@ -1,0 +1,2 @@
+# Luclydean
+Euclidean Step Sequencer
