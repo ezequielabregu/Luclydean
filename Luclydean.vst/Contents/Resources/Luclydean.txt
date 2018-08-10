@@ -1,0 +1,21 @@
+type effect;
+code Lucy;
+midiin true;
+midiout true;
+compatibility 1.0.5;
+image orange.jpg;
+midionly true;
+playhead true;
+param -name Pitch -label Pitch -min 0 -max 127 -default 36 -nsteps 128;
+param -name Speed -list Speed 1/2/3/4/5/6/7/8/9/10/11/12/13/14/15/16 -default 0;
+param -name Steps -list Steps 1/2/3/4/5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25/26/27/28/29/30/31/32 -default 15;
+param -name Hits -label Hits -min 1 -max 127 -default 1 -nsteps 127;
+param -name Rotation -label Rotation -min 0 -max 127 -default 0 -nsteps 128;
+param -name HitVel -label HitVel -min 0 -max 127 -default 64 -nsteps 128;
+param -name Accent -label Accent -min 0 -max 127 -default 0 -nsteps 128;
+param -name RotAccent -label RotAccent -min 0 -max 127 -default 0 -nsteps 128;
+param -name AccentVel -label AccentVel -min 0 -max 127 -default 127 -nsteps 128;
+
+
+
+
