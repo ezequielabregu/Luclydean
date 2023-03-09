@@ -5,7 +5,7 @@ Made with Pure Data (a.k.a. PD) and Camomille.
 
 &nbsp;
 
-<img src="Luclydean.png" alt="alt text" title="Luclydean VST Plug-in" width="250"/>
+<img src="Luclydean.png" alt="alt text" title="Luclydean VST Plug-in" width="200"/>
 
 
 &nbsp;
