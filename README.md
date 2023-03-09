@@ -4,6 +4,11 @@ VST Euclidean Step Sequencer.\
 Made with Pure Data (a.k.a. PD) and Camomille.
 
 &nbsp;
+
+<img src="Luclydean.png" alt="alt text" title="Luclydean VST Plug-in" width="250"/>
+
+
+&nbsp;
 ## Features:
 * VST Plug-in
 * MIDI note selector
